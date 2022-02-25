@@ -1,0 +1,67 @@
+Part 1: Marae with no storyteller, no atmospheric sound
+
+==============================================
+
+Entering the room, no storyteller
+
+Four sound conditions (randomised):
+
+    Stereo (no reverb) plus attenuation
+    Recorded IR file (best/correct, peer-reviewed)
+    Mismatching IR file (Albany St)
+    Mismatching IR file (office)
+
+Interaction:
+
+Participant can freely toggle the four sound types (speech, song, instrumental, effects) and mute while assessing each sound condition.
+
+Tasks:
+
+    Rate every single condition regarding matching the room and confidence in rating (four ratings as it repeats four times)
+    Rate overall the best matching condition and confidence in rating (one rating)
+    Exiting the room
+    Comment on the experience
+
+ 
+
+Part 2 – Version 1: Marae with storyteller, focus reverb
+
+=============================================
+
+Entering the room, storyteller is already visible, video starts when participant is ready (activated by experimenter)
+
+One of two conditions (randomised):
+
+    Speech as stereo (no reverb) plus attenuation
+    Speech with recorded IR file (best/correct, peer-reviewed)
+
+Tasks:
+
+    Listen to speech, look around, behave like a visitor
+    Exiting the room
+    Filling in IPQ
+
+Repeat for second condition.
+
+Exit questionnaire or interview.
+
+ 
+
+Part 2 – Version 2: Marae with storyteller, focus atmospheric sound
+
+=======================================================
+
+Entering the room, storyteller is already visible, video starts when participant is ready (activated by experimenter)
+
+One of two conditions (randomised):
+
+    Speech with recorded IR file (best/correct, peer-reviewed)
+    Speech with recorded IR file (best/correct, peer-reviewed) plus atmospheric sound
+
+Tasks:
+
+as above
+
+Repeat for second condition.
+
+Exit questionnaire or interview.
