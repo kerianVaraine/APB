@@ -1,0 +1,106 @@
+Global Key command
+	master volume control
+		KEYBOARD '+' == Raise volume
+		KEYBOARD '-' == Lower volume
+
+Part 1: Marae with no storyteller, no atmospheric sound
+==============================================
+
+	KEY Z == Init Part 1
+
+Entering the room, no storyteller
+
+Four sound conditions (randomised):
+
+	ATTENUATION SETTINGS NUMPAD 1-4 
+	note: defines which Impulse response(if any) to apply, all have the same spatialisation settings
+	    	NUM 1 == Stereo (no reverb) plus attenuation DEFAULT
+		NUM 2 == Recorded IR file (best/correct, peer-reviewed)
+		NUM 3 == Mismatching IR file (Albany St)
+		NUM 4 == Mismatching IR file (office)
+
+Interaction:
+
+		CONTROLLER BUTTON 'A' || 'SPACEBAR' == play next sound in list.
+
+Participant can freely toggle the four sound types (speech, song, instrumental, effects) and mute while assessing each sound condition.
+
+Tasks:
+
+    Rate every single condition regarding matching the room and confidence in rating (four ratings as it repeats four times)
+    Rate overall the best matching condition and confidence in rating (one rating)
+    Exiting the room
+    Comment on the experience
+
+ 
+
+Part 2 – Version 1: Marae with storyteller, focus reverb
+
+=============================================
+
+Entering the room, storyteller is already visible, video starts when participant is ready (activated by experimenter)
+
+	KEY X == Init Part 2
+	KEYBOARD NUMBERS 1-8 SPAWN PAUSED VOXEL VIDEO
+		1 == Ahi Ka
+		2 == Iwi
+		3 == Nga hau e wha
+		4 == Nga rangatira
+		5 == Te Ao Marama
+		6 == Wai
+		7 == Whakapapa
+		8 == Whanau
+
+	ENTER == Play/Pause Loaded Video
+	
+	
+One of two conditions (randomised):
+
+	KEY \ == toggle Story Teller IR; Default ON    
+
+    Speech as stereo (no reverb) plus attenuation
+    Speech with recorded IR file (best/correct, peer-reviewed)
+
+Tasks:
+
+    Listen to speech, look around, behave like a visitor
+    Exiting the room
+    Filling in IPQ
+
+Repeat for second condition.
+
+Exit questionnaire or interview.
+
+ 
+
+Part 2 – Version 2: Marae with storyteller, focus atmospheric sound
+
+=======================================================
+
+Entering the room, storyteller is already visible, video starts when participant is ready (activated by experimenter)
+
+One of two conditions (randomised):
+
+	KEY 'BACKSPACE' == toggle Atmospheric sound, Default OFF
+
+    Speech with recorded IR file (best/correct, peer-reviewed)
+    Speech with recorded IR file (best/correct, peer-reviewed) plus atmospheric sound
+
+Tasks:
+
+as above
+
+Repeat for second condition.
+
+Exit questionnaire or interview.
+
+=======================================================
+
+Logging: CSV output
+
+	Timestamp : hour-minute-seconds_day-month-year
+	StudyPart : 1 or 2
+	S_Fx : Attenuation Setting; (Default, WhareNuiReverb, AlbanyStReverb, HCI325)
+	S_Type : Name Of Sound Played; (Guitar, Whaikorero, Starman, Kooks, SoundFX)
+	Atmo : Atmospheric sounds on; (True, False)
+
