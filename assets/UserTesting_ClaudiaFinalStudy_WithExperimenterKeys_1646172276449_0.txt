@@ -21,6 +21,7 @@ Four sound conditions (randomised):
 
 Interaction:
 
+		KEY P == Pause soundfile
 		CONTROLLER BUTTON 'A' || 'SPACEBAR' == play next sound in list.
 
 Participant can freely toggle the four sound types (speech, song, instrumental, effects) and mute while assessing each sound condition.
@@ -56,7 +57,7 @@ Entering the room, storyteller is already visible, video starts when participant
 	
 One of two conditions (randomised):
 
-	KEY \ == toggle Story Teller IR; Default ON    
+	KEY \ == toggle Story Teller IR; Default OFF
 
     Speech as stereo (no reverb) plus attenuation
     Speech with recorded IR file (best/correct, peer-reviewed)
@@ -95,6 +96,14 @@ Repeat for second condition.
 Exit questionnaire or interview.
 
 =======================================================
+Operator Log during Experiments: on single line, refresh rate == 1000/ms
+
+	Study Part: (1/2),
+	I.R: NAME OF IMPULSE RESPONSE,
+	Sound Playing: NAME OF SOUNDFILE,
+	StoryTeller IR: true/false,
+	VoxelVideo:  NAME OF VIDEO,
+	Atmo:  true/false
 
 Logging: CSV output
 
