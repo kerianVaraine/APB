@@ -1,25 +1,23 @@
-/*
-mauri and wairua of a space // te reo of a space
-We have no ear-lids, and sound is forever present in our experience of the world around us.
-*/
-
-
-Sound is an important part of connecting to a space or place. The way in which it travels and how we hear it can reveal information and emotion not experienced purely by sight, in turn bringing us closer to the enivronment we are in.
+Sound is an important part of connecting to a space or place. The way in which it travels and how we hear it can reveal information and emotion not experienced purely by sight, in turn bringing us closer to the environment we are in.
 Just as our voices are unique to us, spaces and places have a voice which is theirs. A combination of environmental sounds, wildlife, human life, and the structures themselves all contribute to the unique soundscape associated with a space.
 
-Digital environments are born as a silent, anachoeic void. Sounds made within this space are dry, lack warmth, depth, and do not shape the sound in any way. Audio played back in this space is reproduced exactly, likely introducing elements of the space they themselves were recorded in. 
-/* Just as we build the visual environment from the dark, the sonic environment is built from silence. */
+Digital environments are born as a silent, anechoic void. Sounds made within this space are dry, lack warmth, depth, and do not shape the sound in any way. Audio played back in this space is reproduced exactly, likely introducing elements of the space they themselves were recorded in.
 
-Bringing in the elements of environmental sound to the digital marae was achieved by taking ambient sound recordings from within Te Rau Aroha Marae and impulse responses were recorded capturing the acoustic signature of the structure. These impulses are used as the reverberation applied to any sound occuring within the space, while the environmental sound's loudness and position shift depending on real time wind data from the area.
+Bringing in the elements of environmental sound to the digital marae was achieved by taking ambient sound recordings from within Te Rau Aroha Marae and impulse responses were recorded capturing the acoustic signature of the structure. These impulses are used as the reverberation applied to any sound occurring within the space, while the environmental sound's loudness and position shift depending on real time wind data from the area.
 
-The methods to bring these voices into the digital marae experience involved standard sound design and sound engineering techniques achievable by anyone with intermediate skills in audio production. While some of the sound equiptment we used is not accessible by all, believable results can be had with a simple smartphone and concious listening.
+The methods to bring these voices into the digital marae experience involved standard sound design and sound engineering techniques achievable by anyone with intermediate skills in audio production. While some of the sound equipment we used is not accessible by all, believable results can be had with a simple smartphone and conscious listening.
 
-My personal approach to concious listening is not limited to that which is heard while in the space, but also includes what one hears in memory or thought around the place. Much like in movies, where sound is designed to be impactfull, deliberate and organized, our minds connect with elements of sound which are then idealised, approximated, and filtered depending on our experiences. I believe that this approach to listening can be conceptualised as hearing the mauri and the wairua of a space or place, though I feel at this time that it is not apropriate for me to further explore these thoughts here. 
+My personal approach to conscious listening is not limited to that which is heard while in the space, but also includes what one hears in memory or thought around the place. Much like in movies, where sound is designed to be impactful, deliberate and organized, our minds connect with elements of sound which are then idealised, approximated, and filtered depending on our experiences.
+
+My understanding is that this approach to listening can be described as hearing the mauri and wairua of a space or place and trying to impart this digitally could help create a stronger sense of presence and connection for those who are distanced from their home.
 
 
 
 ---
-concious listening, including what is there physical and what do we remember. (the mauri and wairua of a space?)
+including what is there physical and what do we remember. (the mauri and wairua of a space?)
 
-from speaking with Teriana: While holding powhiri, he incorporates what he hears or the actions of a place into his speeches, gave example of a Tūi and referencing it during a welcome, much like people commenting on the weather at the start of a presentation or talk.
+from speaking with Teriana: While holding powhiri, he incorporates what he hears or the actions of a place into his speeches, gave example of a Tūi and referencing it during his speech, much like people commenting on the weather at the start of a presentation or talk.
 
+/* listening for the mauri and wairua of a space == concious listening. */
+/* We have no ear-lids, and sound is forever present in our experience of the world around us. */
+/* Just as we build the visual environment from the dark, the sonic environment is built from silence. */
